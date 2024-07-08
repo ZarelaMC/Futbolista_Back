@@ -19,3 +19,8 @@ preferencia.
 futbolistas.
 Consideraciones opcionales:
 • Utilizar Paginación para la lista de futbolistas
+
+
+IMPORTANTE 
+• Descargar la BD del siguiente enlace: 
+https://cibertecedu-my.sharepoint.com/:u:/g/personal/i202030251_cibertec_edu_pe/EXUC-8_gzp9MtxEQbuQPDcwBOgZhIogai-ATZhuDSnPUyg?e=LsXeef
